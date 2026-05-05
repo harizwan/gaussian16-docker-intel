@@ -1,0 +1,4 @@
+g16/** filter=lfs diff=lfs merge=lfs -text
+gv6/** filter=lfs diff=lfs merge=lfs -text
+*.tbz filter=lfs diff=lfs merge=lfs -text
+*.tar.bz2 filter=lfs diff=lfs merge=lfs -text
